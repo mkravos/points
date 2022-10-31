@@ -4,7 +4,7 @@ Points backend app written in Go.
 # Running the app:
 Requirements: go, make, and Postman or another endpoint testing software
 
-Run the following command to start the backend:
+Run the following command in the root directory to start the backend:
 ```bash
 make run
 ```
