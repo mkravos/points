@@ -26,7 +26,7 @@ Endpoints:
 ```
 
 Example Calls:
-```
+
 Add Transaction:
 <img width="1077" alt="Screenshot 2022-10-31 at 08 59 33" src="https://user-images.githubusercontent.com/44103767/199025660-1a51322b-21e2-4e8d-aedc-b3800840f7c7.png">
 
