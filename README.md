@@ -1,7 +1,7 @@
 # points
 Points backend app written in Go.
 
-# Running and using the app:
+# Running the app:
 Requirements: go, make, and Postman or another endpoint testing software
 
 Run the following command to start the backend:
